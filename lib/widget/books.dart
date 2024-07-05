@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter_exercise_api/services/api_service.dart';
-import 'package:flutter_exercise_api/models/book_model.dart' as Book;
+import 'package:flutter_exercise_api/models/book_model.dart';
 
 class BooksWidget extends StatelessWidget {
   const BooksWidget({
